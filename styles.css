@@ -6,3 +6,45 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.flex {
+	display: flex;
+}
+
+.items-center {
+	align-items: center;
+}
+
+.gap-3 {
+	gap: 0.75rem;
+}
+
+.px-4 {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.text-lg {
+	font-size: 1.125rem;
+	line-height: 1.75rem;
+}
+
+.font-bold {
+	font-weight: 700;
+}
+
+.gap-1\.5 {
+	gap: 0.375rem;
+}
+
+.gap-2 {
+	gap: 0.5rem;
+}
+
+.flex-col {
+	flex-direction: column;
+}
+
+h4 {
+	margin: 0;
+}
